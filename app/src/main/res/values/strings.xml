@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="c209_advance_object_oriented_programming">C209 Advance Object Oriented Programming</string>
+    <string name="c206_software_development_process">C206 Software Development Process</string>
+    <string name="c235_it_security_and_management">C235 IT Security and Management</string>
+    <string name="c353_business_systems">C353 Business Systems</string>
+    <string name="c346_mobile_app_developement">C346 Mobile App Developement</string>
+</resources>
